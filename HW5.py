@@ -1,4 +1,4 @@
-##Katarina Mazanka
+##Katarina Mazanka git
 import re
 filename = 'regex_sum_38687.txt'
 file_object = open(filename, "r")
